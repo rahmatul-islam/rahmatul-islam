@@ -33,18 +33,25 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,firebase,git,github,vscode,androidstudio&perline=5" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,firebase&perline=6" alt="Tech Stack" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahmatul-islam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatul-islam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmatul-islam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmatul-islam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmatul-islam&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmatul-islam&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
+  </picture>
 
 </div>
 
@@ -52,7 +59,10 @@
 
 <div align="center">
   
-  <img height="170em" src="https://streak-stats.demolab.com?user=rahmatul-islam&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rahmatul-islam&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=rahmatul-islam&theme=github-dark-blue&hide_border=true" height="180" />
+  </picture>
 
 </div>
 
@@ -62,10 +72,10 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=dark_lover&no-frame=true&no-bg=false&margin-w=15&column=4" alt="Trophies" />
-
-  <br>
-  <sub>📝 <i>Note: If trophies don't load, please refresh after few minutes (GitHub API rate limit)</i></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
+  </picture>
 
 </div>
 
@@ -75,7 +85,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmatul-islam&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmatul-islam&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
 
 </div>
 
@@ -91,11 +101,11 @@
 
 ---
 
-## ⌨️ Dynamic Typing
+## 🐍 Contribution Snake
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+apps+with+Flutter;Writing+clean+Java+code;Learning+something+new+everyday;Open+to+collaborate!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
