@@ -106,7 +106,9 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rahmatul-islam&icon=6&color=8" alt="Visit Count" />
+  <img src="https://komarev.com/ghpvc/?username=rahmatul-islam&label=Profile%20Views&color=5865f2&style=for-the-badge" alt="Profile Views" />
+
   <br><br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" alt="Footer" />
 </div>
