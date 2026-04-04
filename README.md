@@ -68,20 +68,26 @@
 
 ---
 
-## 🎯 GitHub Achievements
+## ✨ GitHub Highlights
 
 <div align="center">
-  
-  ![Repos](https://img.shields.io/badge/Public_Repos-XX-58A6FF?style=for-the-badge&logo=github&logoColor=white)
-  ![Commits](https://img.shields.io/badge/Total_Commits-XXXX-239120?style=for-the-badge&logo=git&logoColor=white)
-  ![Stars](https://img.shields.io/badge/Stars_Earned-XX-FFD700?style=for-the-badge&logo=github&logoColor=black)
-  ![PRs](https://img.shields.io/badge/Pull_Requests-XX-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-  ![Issues](https://img.shields.io/badge/Issues-XX-FF9500?style=for-the-badge&logo=github&logoColor=white)
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rahmatul-islam&label=Profile%20Views&color=58a6ff&style=for-the-badge)
-  
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmatul-islam&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahmatul-islam&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahmatul-islam&theme=github_dark&utcOffset=6" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahmatul-islam&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahmatul-islam&theme=github_dark" />
 </div>
 
 ## 📈 Contribution Graph
