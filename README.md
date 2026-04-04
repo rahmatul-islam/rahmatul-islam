@@ -68,18 +68,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 3D Contribution Graph
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
-    <img src="https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
-  </picture>
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=rahmatul-islam&theme=github-dark&background=0d1117&rotate=5" alt="3D Contribution Graph" width="100%"/>
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
