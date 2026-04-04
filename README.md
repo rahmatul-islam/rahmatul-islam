@@ -1,48 +1,69 @@
-# 💫 About Me
+<div align="center">
 
-Hi, I’m **Rahmatul Islam**, a Software Engineering student from Bangladesh, interested in Dart, Java and Flutter.<br>
-I enjoy learning new technologies, solving problems and building apps.
+# 👋 Hi, I'm **Rahmatul Islam**
+### 💻 **Software Engineering Student | Flutter & Java Developer**
 
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahmatul.islam.16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmatul-islam-447b39341)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/RI)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rahmatul-islam)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riratul5)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahmatulislam.@proton.me)
+🌍 **From Bangladesh** | 🎯 **Passionate about building mobile apps & solving problems**
 
 ---
 
-# 💻 Tech Stack
+## 🔗 **Connect With Me**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![Rahmatul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmatul-islam&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=rahmatul-islam&theme=neon&hide_border=false)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatul-islam&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rahmatul.islam.16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmatul-islam-447b39341)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/riratul5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmatulislam.@proton.me)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/rahmatul-islam)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rahmatul-islam&icon=10&color=8)](https://visitcount.itsvg.in)
+## 🛠️ **Tech Stack**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### **Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### **Databases & Backend**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmatul-islam&show_icons=true&theme=neon&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=rahmatul-islam&theme=neon&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" height="180" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatul-islam&layout=compact&theme=neon&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180" />
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahmatul-islam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+---
+
+## ✍️ **Random Dev Quote**
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 👀 **Profile Views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahmatul-islam&label=Profile%20Views&color=blueviolet&style=flat)
+
+</div>
+
+<!-- Proudly crafted with ❤️ by Rahmatul Islam -->
