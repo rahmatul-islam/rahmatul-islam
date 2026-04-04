@@ -27,8 +27,10 @@ I enjoy learning new technologies, solving problems and building apps.
 
 # 📊 GitHub Stats
 
-![Rahmatul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmatul-islam&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rahmatul-islam&theme=neon&hide_border=false)<br>
+![Rahmatul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmatul-islam&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=rahmatul-islam&theme=neon&hide_border=false)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatul-islam&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -38,10 +40,6 @@ I enjoy learning new technologies, solving problems and building apps.
 ### ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rahmatul-islam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
