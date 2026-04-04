@@ -68,26 +68,11 @@
 
 ---
 
-## ✨ GitHub Highlights
-
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmatul-islam&theme=github_dark" />
+  <img src="https://img.shields.io/github/followers/rahmatul-islam?style=for-the-badge&color=58a6ff&label=Followers" />
+  <img src="https://img.shields.io/github/stars/rahmatul-islam?style=for-the-badge&color=58a6ff&label=Total%20Stars" />
 
-</div>
-
-<br>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahmatul-islam&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahmatul-islam&theme=github_dark&utcOffset=6" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahmatul-islam&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahmatul-islam&theme=github_dark" />
 </div>
 
 ## 📈 Contribution Graph
