@@ -57,21 +57,21 @@
 
 <br>
 
+## 📈 Profile Summary
+
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rahmatul-islam&theme=github-dark-blue&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=rahmatul-islam&theme=github-dark-blue&hide_border=true" height="180" />
-  </picture>
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://img.shields.io/github/followers/rahmatul-islam?style=for-the-badge&color=58a6ff&label=Followers" />
-  <img src="https://img.shields.io/github/stars/rahmatul-islam?style=for-the-badge&color=58a6ff&label=Total%20Stars" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmatul-islam&theme=github_dark)
+  
+  <br>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahmatul-islam&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahmatul-islam&theme=github_dark&utcOffset=6)
+  
+  <br>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahmatul-islam&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahmatul-islam&theme=github_dark)
 
 </div>
 
