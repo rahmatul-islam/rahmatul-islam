@@ -68,11 +68,21 @@
 
 ---
 
-## 🏆 3D Contribution Graph
+## 📈 Profile Summary
 
 <div align="center">
   
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=rahmatul-islam&theme=github-dark&background=0d1117&rotate=5" alt="3D Contribution Graph" width="100%"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmatul-islam&theme=github_dark)
+  
+  <br>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahmatul-islam&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahmatul-islam&theme=github_dark&utcOffset=6)
+  
+  <br>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahmatul-islam&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahmatul-islam&theme=github_dark)
 
 </div>
 
