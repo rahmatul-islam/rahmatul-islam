@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,firebase&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,firebase,appwrite&perline=6" alt="Tech Stack" />
 
 </div>
 
