@@ -32,6 +32,9 @@ Currently Learning:
   - Java
   - Flutter
   - Backend Development
+  - Python
+  -C
+  _DSA
 
 Interests:
   - Software Engineering
