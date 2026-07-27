@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Rahmatul%20Islam&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Flutter%20Developer%20🇧🇩&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Rahmatul%20Islam&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Tech%20Enthusiast%20🇧🇩&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
 # Hi there 👋
 
 ### Software Engineering Student 🇧🇩
