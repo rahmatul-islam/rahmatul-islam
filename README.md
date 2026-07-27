@@ -15,7 +15,7 @@
 
 # 👨‍💻 About Me
 
-```yaml
+
 Name: Rahmatul Islam
 
 Education:
@@ -43,7 +43,6 @@ Interests:
 Goal:
   Build useful software, keep learning,
   and become a skilled software engineer.
-```
 
 ---
 
