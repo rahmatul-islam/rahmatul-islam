@@ -1,6 +1,8 @@
+````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Rahmatul%20Islam&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Tech%20Enthusiast%20🇧🇩&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
+
 # Hi there 👋
 
 ### Software Engineering Student 🇧🇩
@@ -13,12 +15,35 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Software Engineering Student from Bangladesh
-- 📱 Building cross-platform mobile apps with Flutter
-- ☕ Learning Java and Backend Development
-- 🔥 Interested in Clean Architecture & Mobile UI
-- 🌱 Exploring Firebase, Appwrite and Modern Development
-- 🚀 Always learning something new
+```yaml
+Name: Rahmatul Islam
+
+Education:
+  Software Engineering Student
+
+Location:
+  Bangladesh 🇧🇩
+
+Languages:
+  - Bangla
+  - English
+
+Currently Learning:
+  - Java
+  - Flutter
+  - Backend Development
+
+Interests:
+  - Software Engineering
+  - Mobile App Development
+  - Problem Solving
+  - Open Source
+  - Modern Technologies
+
+Goal:
+  Build useful software, keep learning,
+  and become a skilled software engineer.
+```
 
 ---
 
@@ -45,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,appwrite,mysql,c,git,github,vscode,androidstudio&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,c,mysql,firebase,appwrite,git,github,vscode,androidstudio&perline=6"/>
 
 </div>
 
@@ -77,7 +102,7 @@
 
 ---
 
-# 📑 Profile Details
+# 📑 Profile Summary
 
 <div align="center">
 
@@ -111,8 +136,6 @@
 
 ### ⭐ Building today, improving tomorrow.
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=rahmatul-islam&label=Profile%20Views&style=for-the-badge&color=5865F2"/>
 
 <br><br>
@@ -120,3 +143,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
 
 </div>
+````
