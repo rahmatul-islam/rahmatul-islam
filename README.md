@@ -4,9 +4,9 @@
 
 # Hi there 👋
 
-### Software Engineering Student • Flutter Developer
+### Software Engineering Student 🇧🇩
 
-*Passionate about building clean, user-friendly mobile applications and continuously learning modern technologies.*
+*Passionate about software engineering, problem solving, and continuous learning. I enjoy exploring new technologies, building practical projects, and turning ideas into real-world applications.*
 
 </div>
 
