@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Rahmatul%20Islam&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Tech%20Enthusiast%20🇧🇩&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
 
-# Hi there 👋
+
 
 ### Software Engineering Student 🇧🇩
 
@@ -15,37 +15,38 @@
 
 # 👨‍💻 About Me
 
+## 👋 Hey, I'm **Rahmatul Islam**
 
-Name: Rahmatul Islam
+A passionate Software Engineering student from Bangladesh 🇧🇩 who loves building real-world software, exploring modern technologies, and solving interesting problems.
 
-Education:
-  Software Engineering Student
+---
 
-Location:
-  Bangladesh 🇧🇩
+### 🎓 Education  
+- Software Engineering Student  
 
-Languages:
-  - Bangla
-  - English
+### 📍 Location  
+- Bangladesh 🇧🇩  
 
-Currently Learning:
-  - Java
-  - Flutter
-  - Backend Development
-  - Python
-  - C
+### 🌐 Languages  
+- Bangla (Native)  
+- English (Professional)  
 
-Interests:
-  - Software Engineering
-  - Mobile App Development
-  - Problem Solving
-  - Open Source
-  - Modern Technologies
+### 📚 Currently Learning  
+- Java  
+- Flutter  
+- Backend Development  
+- Python  
+- C  
 
-Goal:
-  Build useful software, keep learning,
-  and become a skilled software engineer.
+### ❤️ Interests  
+- Software Engineering  
+- Mobile App Development  
+- Problem Solving  
+- Open Source  
+- Modern Technologies  
 
+### 🎯 Goal  
+To build useful software that helps people, keep learning every day, and grow into a skilled and impactful software engineer.
 ---
 
 # 🌐 Connect with Me
