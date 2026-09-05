@@ -138,7 +138,7 @@ I enjoy turning ideas into projects, exploring new technologies, and continuousl
 
 <img src="https://streak-stats.demolab.com?user=rahmatul-islam&theme=github-dark&hide_border=true"/>
 
-</div>
+<!-- </div>
 
 ---
 
@@ -150,7 +150,7 @@ I enjoy turning ideas into projects, exploring new technologies, and continuousl
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmatul-islam&theme=github-compact&hide_border=true&bg_color=0d1117&color=60a5fa&line=8b5cf6&point=fbbf24&area=true"/>
 
-</div>
+</div> -->
 
 ---
 
